@@ -1,0 +1,9 @@
+For given data set folowing EDA cna be done (check HDFC challenge ipynb file for some of those implementations)
+* Check duplicate columns.
+* delete corelated columns.
+* delete where NaN is more than 30 percent.
+* Group columns to get new column .
+* handle imbalanced data using SMOTE
+
+Try, XGBoost, Adaboost
+https://medium.com/urbint-engineering/using-smoteboost-and-rusboost-to-deal-with-class-imbalance-c18f8bf5b805
